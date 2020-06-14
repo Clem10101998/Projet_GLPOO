@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<clients>
+    
+    <client idno="1">
+        <firstname>Sam</firstname>
+        <lastname>Gerrot</lastname>
+        <username>samge</username>
+        <password>lopin</password>
+    </client>
+    <client idno="2">
+        <firstname>Martin</firstname>
+        <lastname>kerard</lastname>
+        <username>parm</username>
+        <password>bmw</password>
+    </client>
+    <client idno="3">
+        <firstname>Laura</firstname>
+        <lastname>Merlot</lastname>
+        <username>carpie</username>
+        <password>ozil</password>
+    </client>
+    <client idno="4">
+        <firstname>Gérard</firstname>
+        <lastname>gyo</lastname>
+        <username>hess</username>
+        <password>poliv</password>
+    </client>
+    <client idno="5">
+        <firstname>Jess</firstname>
+        <lastname>Farmigot</lastname>
+        <username>lary</username>
+        <password>sos</password>
+    </client>
+    <client idno="6">
+        <firstname>Laurent</firstname>
+        <lastname>Tricard</lastname>
+        <username>jemini</username>
+        <password>cia</password>
+    </client>
+    <client idno="7">
+        <firstname>Jeremy</firstname>
+        <lastname>Martin</lastname>
+        <username>braqueur</username>
+        <password>aussi</password>
+    </client>
+    <client idno="7">
+        <firstname>Margot</firstname>
+        <lastname>Delassource</lastname>
+        <username>pomme</username>
+        <password>poire</password>
+    </client>
+    <client idno="8">
+        <firstname>Paule</firstname>
+        <lastname>Otin</lastname>
+        <username>hero</username>
+        <password>win</password>
+    </client>
+    
+</clients>
