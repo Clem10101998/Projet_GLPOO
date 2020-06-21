@@ -2,7 +2,13 @@
 
 Cette application a été développée afin de permettre à plusieurs clients de converser entre eux.
 
-## Présentation
+## Présentation des membres avec les pseudos git correspondant de chacun
+
+Le groupe est composé de six membres : Léo CALIS (Amscray), Étienne ROCHE (Frizzby), Thibaut ALLAIN (centurion6521),
+Martin RAYNAUD (Martini), Clément SOREL (Clem10101998), Paul-Amaury KLEIN (Slabons).
+
+
+## Présentation du projet
 
 Nous avons une première interface qui permet au client de se connecter à l’application. Si la connexion est un succès,
 une fenêtre « Server » et « Client » s’ouvrent. L’utilisateur peut ensuite voir la liste des contacts sur « Server » avec qui
