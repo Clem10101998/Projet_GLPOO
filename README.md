@@ -17,8 +17,25 @@ firstname, lastname, username, password. Celles-ci correspondent aux données pe
 - Installation d'Eclipse
 - Installation de MySQL Worbench
 
-## Fonctionnalités
+## Fonctionnalités (GUI)
 
-### Première GUI
+### Connexion à l'application
 
+<img src="Images/First_screen.png" width="400">
+
+### Création d'un nouveau compte client
+
+<img src="Images/Second_screen.png" width="400">
+
+### Schéma utilisé pour la JDBC
+
+<img src="Images/Fifth_screen.png" width="400">
+
+### Messagerie Serveur
+
+<img src="Images/Third_screen.png" width="400">
+
+### Messagerie Client
+
+<img src="Images/Fourth_screen.png" width="400">
 
